@@ -1,0 +1,268 @@
+[
+    {
+        "kanji": {
+            "first": "家",
+            "middle": "",
+            "last": "族"
+        },
+        "kanetsu": {
+            "first": "GIA",
+            "middle": "",
+            "last": "TỘC"
+        },
+        "furigana": "かぞく",
+        "meanings": "Gia đình"
+    },
+    {
+        "kanji": {
+            "first": "両",
+            "middle": "",
+            "last": "親"
+        },
+        "kanetsu": {
+            "first": "LƯỠNG",
+            "middle": "",
+            "last": "THÂN"
+        },
+        "furigana": "りょうしん",
+        "meanings": "Bố mẹ, Phụ mẫu"
+    },
+    {
+        "kanji": {
+            "first": "歯",
+            "middle": "医",
+            "last": "者"
+        },
+        "kanetsu": {
+            "first": "XỈ",
+            "middle": "Y",
+            "last": "GIẢ"
+        },
+        "furigana": "はいしゃ",
+        "meanings": "Bác sĩ nha khoa; nha sĩ"
+    },
+    {
+        "kanji": {
+            "first": "救",
+            "middle": "急",
+            "last": "車"
+        },
+        "kanetsu": {
+            "first": "CỨU",
+            "middle": "CẤP",
+            "last": "XA"
+        },
+        "furigana": "きゅうきゅうしゃ",
+        "meanings": "Xe cứu thương"
+    },
+    {
+        "kanji": {
+            "first": "風",
+            "middle": "",
+            "last": "邪"
+        },
+        "kanetsu": {
+            "first": "PHONG",
+            "middle": "",
+            "last": "TÀ"
+        },
+        "furigana": "かぜ",
+        "meanings": "Cảm lạnh"
+    },
+    {
+        "kanji": {
+            "first": "太",
+            "middle": "",
+            "last": "陽"
+        },
+        "kanetsu": {
+            "first": "THÁI",
+            "middle": "",
+            "last": "DƯƠNG"
+        },
+        "furigana": "たいよう",
+        "meanings": "Thái dương; mặt trời"
+    },
+    {
+        "kanji": {
+            "first": "趣",
+            "middle": "",
+            "last": "味"
+        },
+        "kanetsu": {
+            "first": "THÚ",
+            "middle": "",
+            "last": "VỊ"
+        },
+        "furigana": "しゅみ",
+        "meanings": "Sở thích, Thú vui"
+    },
+    {
+        "kanji": {
+            "first": "案",
+            "middle": "",
+            "last": "内"
+        },
+        "kanetsu": {
+            "first": "ÁN",
+            "middle": "",
+            "last": "NỘI"
+        },
+        "furigana": "あんない",
+        "meanings": "Hướng dẫn"
+    },
+    {
+        "kanji": {
+            "first": "尊",
+            "middle": "",
+            "last": "敬"
+        },
+        "kanetsu": {
+            "first": "TÔN",
+            "middle": "",
+            "last": "KÍNH"
+        },
+        "furigana": "そんけい",
+        "meanings": "Tôn kính"
+    },
+    {
+        "kanji": {
+            "first": "挨",
+            "middle": "",
+            "last": "拶"
+        },
+        "kanetsu": {
+            "first": "AI",
+            "middle": "",
+            "last": "TẠT"
+        },
+        "furigana": "あいさつ",
+        "meanings": "Lời chào; sự chào hỏi"
+    },
+    {
+        "kanji": {
+            "first": "相",
+            "middle": "",
+            "last": "談"
+        },
+        "kanetsu": {
+            "first": "TƯƠNG",
+            "middle": "",
+            "last": "ĐÀM"
+        },
+        "furigana": "そうだん",
+        "meanings": "Trao đổi"
+    },
+    {
+        "kanji": {
+            "first": "計",
+            "middle": "",
+            "last": "画"
+        },
+        "kanetsu": {
+            "first": "KẾ",
+            "middle": "",
+            "last": "HOẠCH"
+        },
+        "furigana": "けいかく",
+        "meanings": "Chương trình, Kế hoạch"
+    },
+    {
+        "kanji": {
+            "first": "無",
+            "middle": "",
+            "last": "駄"
+        },
+        "kanetsu": {
+            "first": "VÔ",
+            "middle": "",
+            "last": "ĐÀ"
+        },
+        "furigana": "むだ",
+        "meanings": "Vô ích; không có hiệu quả"
+    },
+    {
+        "kanji": {
+            "first": "丁",
+            "middle": "",
+            "last": "寧"
+        },
+        "kanetsu": {
+            "first": "ĐINH",
+            "middle": "",
+            "last": "NINH"
+        },
+        "furigana": "ていねい",
+        "meanings": "Cẩn thận,  Lịch sự"
+    },
+    {
+        "kanji": {
+            "first": "新",
+            "middle": "幹",
+            "last": "線"
+        },
+        "kanetsu": {
+            "first": "TÂN",
+            "middle": "CÁN",
+            "last": "TUYẾN"
+        },
+        "furigana": "しんかんせん",
+        "meanings": "Tàu siêu tốc"
+    },
+    {
+        "kanji": {
+            "first": "道",
+            "middle": "",
+            "last": "路"
+        },
+        "kanetsu": {
+            "first": "ĐẠO",
+            "middle": "",
+            "last": "LỘ"
+        },
+        "furigana": "どうろ",
+        "meanings": "Con đường"
+    },
+    {
+        "kanji": {
+            "first": "事",
+            "middle": "",
+            "last": "故"
+        },
+        "kanetsu": {
+            "first": "SỰ",
+            "middle": "",
+            "last": "CỐ"
+        },
+        "furigana": "じこ",
+        "meanings": "Biến cố, Tai nạn"
+    },
+    {
+        "kanji": {
+            "first": "怪",
+            "middle": "",
+            "last": "我"
+        },
+        "kanetsu": {
+            "first": "QUÁI",
+            "middle": "",
+            "last": "NGÃ"
+        },
+        "furigana": "けが",
+        "meanings": "Vết thương"
+    },
+    {
+        "kanji": {
+            "first": "写",
+            "middle": "",
+            "last": "真"
+        },
+        "kanetsu": {
+            "first": "TẢ",
+            "middle": "",
+            "last": "CHÂN"
+        },
+        "furigana": "しゃしん",
+        "meanings": "Hình ảnh"
+    }
+]
