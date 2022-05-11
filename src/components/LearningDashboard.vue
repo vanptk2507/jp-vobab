@@ -4,7 +4,7 @@
       <h1>N4語彙一覧</h1>
       <table class="table-list">
         <thead class="table-header">
-          <th>Danh sách từ vựng N4</th>
+          <th width="40%">Danh sách từ vựng N4</th>
           <th>Thông tin chi tiết từ vựng</th>
         </thead>
         <tbody>

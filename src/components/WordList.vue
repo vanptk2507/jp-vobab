@@ -8,7 +8,10 @@
       <tr v-for="(word, index) in wordData" :key="word.id">
         <td width="50%!important">{{ index + 1 }}</td>
         <td>
-          <a @click="selectWord(word)" :class="{ 'click-word': isSelected }">
+          <a
+            @click="selectWord(word)"
+            :class="{ 'click-word': word.isSelected }"
+          >
             {{ word.kanji.first }}{{ word.kanji.middle }}{{ word.kanji.last }}
           </a>
         </td>
@@ -28,8 +31,7 @@ export default {
   },
   methods: {
     selectWord(word) {
-      word.isSelected = !word.isSelected;
-      word.isSelected ? (this.isSelected = true) : (this.isSelected = false);
+      word.isSelected = true;
       this.$emit("selectedWord", word);
     },
   },
