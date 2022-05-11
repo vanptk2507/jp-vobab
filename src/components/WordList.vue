@@ -26,13 +26,13 @@ export default {
       isSelected: false,
     };
   },
-  //   methods: {
-  //     selectWord(word) {
-  //       word.isSelected = !word.isSelected;
-  //       word.isSelected ? (this.isSelected = true) : (this.isSelected = false);
-  //       this.$emit("selectedWord", word);
-  //     },
-  //   },
+  methods: {
+    selectWord(word) {
+      word.isSelected = !word.isSelected;
+      word.isSelected ? (this.isSelected = true) : (this.isSelected = false);
+      this.$emit("selectedWord", word);
+    },
+  },
 };
 </script>
 
