@@ -1,0 +1,26 @@
+.table-list {
+    width: 100%;
+}
+
+.table-header {
+    font-weight: bold;
+    color: blueviolet;
+    border: 1px solid black;
+}
+
+.click-word {
+    color: darkred;
+    font-style: italic;
+}
+
+.tbl-list-word {
+    width: 100%;
+}
+
+.w-15 {
+    width: 15%;
+}
+
+.w-20 {
+    width: 20%;
+}
