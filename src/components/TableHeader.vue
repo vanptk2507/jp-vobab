@@ -11,23 +11,3 @@
     <th>Ý nghĩa</th>
   </thead>
 </template>
-
-
-<style lang="css" scoped>
-.table-list {
-  width: 100%;
-}
-.table-header {
-  font-weight: bold;
-  color: blueviolet;
-}
-.tbl-list-word {
-  width: 100%;
-}
-.w-15 {
-  width: 15%;
-}
-.w-20 {
-  width: 20%;
-}
-</style>

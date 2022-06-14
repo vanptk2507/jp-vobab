@@ -35,13 +35,3 @@ export default {
   },
 };
 </script>
-
-<style lang="css" scoped>
-.table-list {
-  width: 100%;
-}
-.table-header {
-  font-weight: bold;
-  color: blueviolet;
-}
-</style>

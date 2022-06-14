@@ -44,11 +44,3 @@ export default {
   },
 };
 </script>
-
-<style lang="css" scoped>
-.click-word {
-  color: darkred;
-  font-style: italic;
-}
-</style>
-
